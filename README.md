@@ -32,7 +32,7 @@ Write Following in the file **`api/index.php`**
 ``` php
 <?php  
 
-require \_\_DIR\_\_ . "/../public/index.php";
+require __DIR__ . "/../public/index.php";
 ```
 
 
