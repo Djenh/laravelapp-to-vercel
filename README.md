@@ -2,7 +2,7 @@
 ## Steps to deploy a Laravel application with its database to Vercel
 Once you've build your Laravel application and you want to share your app to others colleagues/client, you can deploy it on Vercel. Here are steps to follow.
 
-##### **Step 1**
+### **Step 1**
 
 Ensure that Vercel CLI is installed on your computer. Type the following command in the terminal
 
@@ -22,7 +22,7 @@ Login into Vercel using command line "vercel login"
 
 ##### **Step 2**
 
-Create a new folder "api" and add a new file "index.php"
+Create a new folder "api" and add a new file **`index.php`**
 
 
 
