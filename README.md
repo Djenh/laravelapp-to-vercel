@@ -54,6 +54,8 @@ Create empty folder **`dist`**
 
 ### **Step 7**
 
+**Ensure that you've built your project** before deploying if you're using Vite.
+
 Deploy the project in local, type in the terminal 
 ``` console
 vercel . 
