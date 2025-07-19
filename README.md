@@ -18,7 +18,7 @@ Login into Vercel using command line
 ``` console
 vercel login 
 ```
-
+Then follow login process (email confirmation, etc.)
 
 ### **Step 2**
 
@@ -27,7 +27,7 @@ Create a new folder **`api`** and add a new file **`index.php`**
 
 ### **Step 3**
 
-Write Following in the file
+Write Following in the file **`api/index.php`**
 
 ``` php
 <?php  
@@ -79,7 +79,7 @@ Go to your vercel dashboard [https://vercel.com/dashboard](https://vercel.com/da
 
 * Go to your project
 * Go to tab settings
-* Go to Build & Development Settings, then checklist Output Directory and type public, then click button save
+* Go to Build & Development Settings, then checklist Output Directory and type **`public`**, then click button save
 
 
 
@@ -96,7 +96,7 @@ vercel .
 Create an online database to host your data.
 * Go to [https://www.freesqldatabase.com](https://www.freesqldatabase.com)
 * Or go to [https://supabase.com](https://supabase.com)
-* Or anyone database hosting service
+* Or any database hosting service
 
 
 ### **Step 12**
