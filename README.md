@@ -103,7 +103,13 @@ Create an online database to host your data.
 
 ### **Step 12**
 
-Get your online database credentials and put them in your **`.env`** file
+Get your online database credentials and put them in your **`.env`** file.
+Then run your artisan database commands to fill in the online database.
+``` console
+php artisan migrate
+php artisan db:seed
+```
+
 
 
 ### **Step 13**
